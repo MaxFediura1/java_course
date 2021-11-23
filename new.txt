@@ -1,2 +1,3 @@
 Its a new file
 with a new commit
+And some text moore for new commit
